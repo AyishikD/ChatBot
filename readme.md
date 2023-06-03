@@ -1,0 +1,2 @@
+Introduction
+This chatbot is designed to provide support and assistance to individuals who may be feeling depressed or going through a difficult time. It aims to create a safe and understanding environment where users can express their feelings and receive guidance and resources. This project is my first project in this domain.
